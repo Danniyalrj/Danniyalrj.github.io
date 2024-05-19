@@ -30,9 +30,6 @@ header
    text-decoration:double
 }
 footer{
-
-position: static;
-    float:left;
 background-color: #333;
 color: whitesmoke;
 padding: 20px;
